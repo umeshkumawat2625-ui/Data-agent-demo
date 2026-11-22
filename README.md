@@ -1,7 +1,7 @@
 # Data agent demo
 
 A small, complete data agent you can run on your laptop and read in one sitting.
-It is the live demo from the DataVidhya video "What is a data agent, and will it replace data engineers?"
+"What is a data agent, and will it replace data engineers?"
 
 ## The big picture
 
